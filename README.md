@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋 I'm Mark Anthony Enriquez
 
-<!--
-**imnrqzz/imnrqzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer and BSIT student at Cavite State University - Imus Campus. I build clean, functional web apps — from static pages to full-stack PHP/MySQL systems.
 
-Here are some ideas to get you started:
+**What I work with**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Proficient:** HTML5, CSS3, JavaScript, PHP, MySQL
+- **Currently learning:** React, Node.js, Astro, Python, Java
+
+**Featured projects**
+
+- [Shoe Inventory System](https://shoemarketingsystem.onrender.com/index.php) — full-stack inventory system (PHP/MySQL). Head programmer of a 5-person team.
+- [Portfolio](https://markenrportfolio.is-a.dev/) — dark/light mode, responsive, contact form.
+- [2D Canvas](https://2dcanvasimnrqz.vercel.app/) — HTML5 Canvas drawing experiments.
+
+**Find me**
+
+- Portfolio: https://markenrportfolio.is-a.dev/
+- Email: markanthonyenriquezzz@gmail.com

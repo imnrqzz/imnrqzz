@@ -19,7 +19,6 @@ Web developer and BSIT student at Cavite State University - Imus Campus. I build
 - [Portfolio](https://markenrportfolio.is-a.dev/) — dark/light mode, responsive, contact form.
 - [2D Canvas](https://2dcanvasimnrqz.vercel.app/) — HTML5 Canvas drawing experiments.
 
-![Metrics](https://raw.githubusercontent.com/imnrqzz/imnrqzz/main/metrics.svg)
 
 **Find me**
 

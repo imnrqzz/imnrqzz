@@ -18,6 +18,8 @@ Web developer and BSIT student at Cavite State University - Imus Campus. I build
 - [Shoe Inventory System](https://shoemarketingsystem.onrender.com/index.php) — full-stack inventory system (PHP/MySQL). Head programmer of a 5-person team.
 - [Portfolio](https://markenrportfolio.is-a.dev/) — dark/light mode, responsive, contact form.
 - [2D Canvas](https://2dcanvasimnrqz.vercel.app/) — HTML5 Canvas drawing experiments.
+- [Product Catalog](https://prodnrqz.vercel.app/) — responsive product grid with search and modal previews.
+- [Drag and Drop](https://dragndropnrqz.vercel.app/) — matching game with drag-and-drop, timer, and score tracking.
 
 
 **Find me**
